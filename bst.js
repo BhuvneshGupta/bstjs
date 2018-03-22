@@ -40,7 +40,7 @@ BinarySearchTree.prototype.push = function(currentNode,val){
 
 var bst = new BinarySearchTree();
 
-console.log(bst.root)
+/*console.log(bst.root)
 console.log('======')
 bst.push(bst.root,100);
 
@@ -60,5 +60,5 @@ console.log(bst.root)
 console.log('======')
 bst.push(bst.root,109);
 
-console.log(JSON.stringify(bst.root))
+console.log(JSON.stringify(bst.root))*/
 
